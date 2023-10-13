@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Oct 13 20:41:00 GMT 2023","Fri Oct 13 20:41:00 GMT 2023","8","","qa.guru.allure.LabelsTest","","qa.guru.allure.LabelsTest","testStaticLabels","issue",""
+"passed","Fri Oct 13 20:40:58 GMT 2023","Fri Oct 13 20:41:00 GMT 2023","1505","","qa.guru.allure.AttachmentsTest","","qa.guru.allure.AttachmentsTest","testAnnotatedAttachments","testAnnotatedAttachments()",""
+"passed","Fri Oct 13 20:41:00 GMT 2023","Fri Oct 13 20:41:00 GMT 2023","2","","qa.guru.allure.LabelsTest","","qa.guru.allure.LabelsTest","testDynamicLabels","Создание Issue для авторизованного пользователя",""
+"passed","Fri Oct 13 20:40:54 GMT 2023","Fri Oct 13 20:40:58 GMT 2023","3917","","qa.guru.allure.AttachmentsTest","","qa.guru.allure.AttachmentsTest","testLambdaAttachments","testLambdaAttachments()",""
